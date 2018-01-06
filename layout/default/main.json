@@ -1,0 +1,74 @@
+{
+  "menu": [
+      {
+        "id": "home-pictures-btn",
+        "text": "PICTURES",
+        "submenu": [
+          {
+            "id": "sub-home-local-btn",
+            "text": "LOCAL"
+          },
+          {
+            "id": "sub-home-external-btn",
+            "text": "BROWSE"
+          }
+        ]
+      },
+      {
+        "id": "home-videos-btn",
+        "text": "VIDEOS",
+		"submenu": [
+          {
+            "id": "sub-home-local-btn",
+            "text": "LOCAL"
+          },
+          {
+            "id": "submenu-exodus-btn",
+            "text": "EXODUS"
+          }
+        ]
+      },
+      {
+        "id": "home-music-btn",
+        "text": "MUSIC",
+		"submenu": [
+          {
+            "id": "sub-home-local-btn",
+            "text": "LOCALM"
+          },
+          {
+            "id": "sub-home-external-btn",
+            "text": "BROWSEM"
+          }
+        ]
+      },
+      {
+        "id": "home-programs-btn",
+        "text": "PROGRAMS",
+		"submenu": [
+          {
+            "id": "sub-home-local-btn",
+            "text": "LOCALP"
+          },
+          {
+            "id": "sub-home-external-btn",
+            "text": "BROWSEP"
+          }
+        ]
+      },
+      {
+        "id": "home-system-btn",
+        "text": "SYSTEM",
+		"submenu": [
+          {
+            "id": "sub-home-local-btn",
+            "text": "LOCALS"
+          },
+          {
+            "id": "sub-home-external-btn",
+            "text": "BROWSES"
+          }
+        ]
+      }
+  ]
+}
